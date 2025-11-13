@@ -7,9 +7,9 @@ Program ini dibuat untuk menganalisis data nilai siswa dari file nilai_siswa.csv
 Analisis dilakukan dengan bantuan library Pandas, Matplotlib, dan Seaborn untuk menampilkan ringkasan statistik dan visualisasi data.
 
 # **Library yang Digunakan**
-1. pandas → untuk membaca dan mengolah data dari file CSV
-2. matplotlib.pyplot → untuk membuat grafik batang (bar chart)
-3. seaborn → untuk membuat boxplot yang menunjukkan sebaran nilai
+1. pandas → untuk membaca dan mengolah data dari file CSV.
+2. matplotlib.pyplot → untuk membuat grafik batang (bar chart).
+3. seaborn → untuk membuat boxplot yang menunjukkan sebaran nilai.
 
    Dataset
 
@@ -22,7 +22,7 @@ Analisis dilakukan dengan bantuan library Pandas, Matplotlib, dan Seaborn untuk 
 
 # **Output yang Dihasilkan**
 
-Menampilkan semua data siswa seperti di terminal 
+Menampilkan semua data siswa seperti terminal di atas.
 #
 
 <img width="1920" height="1008" alt="Screenshot 2025-11-13 231522" src="https://github.com/user-attachments/assets/a2989470-d9bf-4e3a-8450-8d491729d38a" />
