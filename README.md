@@ -11,8 +11,6 @@ Analisis dilakukan dengan bantuan library Pandas, Matplotlib, dan Seaborn untuk 
 2. matplotlib.pyplot → untuk membuat grafik batang (bar chart).
 3. seaborn → untuk membuat boxplot yang menunjukkan sebaran nilai.
 
-   Dataset
-
 # **File data bernama nilai_siswa.csv berisi tiga kolom utama:**
 | Kolom   | Keterangan                 |
 | ------- | -------------------------- |
