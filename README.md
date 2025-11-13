@@ -28,7 +28,7 @@ Menampilkan semua data siswa seperti di terminal
 <img width="1920" height="1008" alt="Screenshot 2025-11-13 231522" src="https://github.com/user-attachments/assets/a2989470-d9bf-4e3a-8450-8d491729d38a" />
 
 # **Visualisasi Data**
-1. Grafik Batang — Rata-Rata Nilai per Mapel
+**1. Grafik Batang** — Rata-Rata Nilai per Mapel
    Grafik batang di atas menunjukkan rata-rata nilai siswa untuk setiap mata pelajaran. Dari hasil perhitungan data.groupby('Mapel')['Nilai'].mean(), didapatkan rata-rata nilai seperti hasil output di atas.
 
 **Penjelasan:**
@@ -36,7 +36,7 @@ Menampilkan semua data siswa seperti di terminal
 - Nilai rata-rata terendah terdapat pada Produktif (83.33), menunjukkan perlu adanya peningkatan pemahaman atau latihan pada mata pelajaran ini.
 - Bahasa Indonesia dan Bahasa Inggris memiliki nilai rata-rata yang cukup stabil di kisaran 84-an.
 
-2. Boxplot — Sebaran Nilai per Mata Pelajaran
+**2. Boxplot** — Sebaran Nilai per Mata Pelajaran
    Visualisasi ini menunjukkan sebaran nilai siswa (distribusi) di setiap mata pelajaran menggunakan boxplot.
 
 **Keterangan:**
